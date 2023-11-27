@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,700;1,900&family=Playfair+Display:ital,wght@1,400;1,500;1,600;1,700&family=Roboto+Slab:wght@300;400;500;600;700&display=swap');
+
+*{
+  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
+}
+body{
+  justify-content: space-between;
+  line-height: 1.6rem;
+  background-image: linear-gradient(rgba(33,33,33,0.700),rgba(33,33,33,0.700)),url(./assets/bg.avif);
+  background-size: cover;
+  color: #fff;
+}
+
+
